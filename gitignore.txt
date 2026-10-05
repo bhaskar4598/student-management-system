@@ -1,0 +1,7 @@
+# compiled output
+*.exe
+*.out
+*.o
+student_app
+# runtime data (optional: remove this line if you want to commit sample data)
+students.txt
